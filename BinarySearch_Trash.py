@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+
 def binary_search(value, my_list):
 
     length = len(my_list)
